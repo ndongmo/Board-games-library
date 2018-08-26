@@ -1,0 +1,8 @@
+C:\Users\Fabrice\Desktop\C#\TableGameLib\csgm_library\bin\Release\tgLib.dll
+C:\Users\Fabrice\Desktop\C#\TableGameLib\csgm_library\bin\Release\tgLib.pdb
+C:\Users\Fabrice\Desktop\C#\TableGameLib\csgm_library\obj\Release\tgLib.dll
+C:\Users\Fabrice\Desktop\C#\TableGameLib\csgm_library\obj\Release\tgLib.pdb
+C:\Users\Fabrice\Desktop\C#\TableGameLib\tgLib\bin\Release\tgLib.dll
+C:\Users\Fabrice\Desktop\C#\TableGameLib\tgLib\bin\Release\tgLib.pdb
+C:\Users\Fabrice\Desktop\C#\TableGameLib\tgLib\obj\Release\tgLib.dll
+C:\Users\Fabrice\Desktop\C#\TableGameLib\tgLib\obj\Release\tgLib.pdb

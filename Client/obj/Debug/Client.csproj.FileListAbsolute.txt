@@ -1,0 +1,16 @@
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\bin\Debug\Client.exe.config
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\bin\Debug\Client.exe
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\bin\Debug\Client.pdb
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\obj\Debug\GCM.view.ClientForm.resources
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\obj\Debug\Client.exe
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\obj\Debug\Client.pdb
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\bin\Debug\csgm_library.dll
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\bin\Debug\csgm_library.pdb
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\Client\obj\Debug\GCM.view.Connect4Form.resources
+D:\DESKTOP\program C#\Client-Server Game Model\Client\bin\Debug\Client.exe.config
+D:\DESKTOP\program C#\Client-Server Game Model\Client\obj\Debug\Client.exe
+D:\DESKTOP\program C#\Client-Server Game Model\Client\obj\Debug\Client.pdb
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\bin\Debug\Client.exe.config
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\obj\Debug\Client.exe
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\obj\Debug\Client.pdb

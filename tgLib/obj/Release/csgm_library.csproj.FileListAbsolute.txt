@@ -1,0 +1,4 @@
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\csgm_library\bin\Release\csgm_library.dll
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\csgm_library\bin\Release\csgm_library.pdb
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\csgm_library\obj\Release\csgm_library.dll
+C:\Users\Fabrice\Desktop\program C#\Client-Server Game Model\csgm_library\obj\Release\csgm_library.pdb

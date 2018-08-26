@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tgLib", "tgLib.csproj", "{07930B8B-1FA2-451F-8497-9CD748B33682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "..\Client\Client.csproj", "{E9EE6075-517D-445C-841C-C0F8469D96B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "..\Server\Server.csproj", "{7FD1B3AF-AD38-452F-B0FD-4FBA4B906C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07930B8B-1FA2-451F-8497-9CD748B33682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07930B8B-1FA2-451F-8497-9CD748B33682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07930B8B-1FA2-451F-8497-9CD748B33682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07930B8B-1FA2-451F-8497-9CD748B33682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EE6075-517D-445C-841C-C0F8469D96B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EE6075-517D-445C-841C-C0F8469D96B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EE6075-517D-445C-841C-C0F8469D96B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EE6075-517D-445C-841C-C0F8469D96B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD1B3AF-AD38-452F-B0FD-4FBA4B906C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD1B3AF-AD38-452F-B0FD-4FBA4B906C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD1B3AF-AD38-452F-B0FD-4FBA4B906C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD1B3AF-AD38-452F-B0FD-4FBA4B906C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

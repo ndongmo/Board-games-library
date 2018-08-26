@@ -1,0 +1,10 @@
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\bin\Release\Server.exe.config
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\bin\Release\Server.exe
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\bin\Release\Server.pdb
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\bin\Release\tgLib.dll
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\obj\Release\GSM.view.ServerForm.resources
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\obj\Release\Server.exe
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\obj\Release\Server.pdb
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Server\bin\Release\tgLib.pdb

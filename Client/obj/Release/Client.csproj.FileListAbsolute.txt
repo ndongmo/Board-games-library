@@ -1,0 +1,11 @@
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\bin\Release\Client.exe.config
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\bin\Release\Client.exe
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\bin\Release\Client.pdb
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\bin\Release\tgLib.dll
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\obj\Release\GCM.view.ClientForm.resources
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\obj\Release\GCM.view.Connect4Form.resources
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\obj\Release\Client.exe
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\obj\Release\Client.pdb
+C:\Users\Fabrice\Desktop\C#\TableGameLib\Client\bin\Release\tgLib.pdb
