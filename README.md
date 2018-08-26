@@ -1,2 +1,2 @@
-# Board-games-library
-Client-Server library for board games
+# Board games library
+tgLib is a Client-Server library for board games.
