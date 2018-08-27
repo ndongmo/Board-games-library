@@ -21,7 +21,9 @@
   
   ## How it works
   
-  **tgLib** is very simple, the view of the server application should implement the IServerView interface of the tgLib and that's all for the server side :relaxed:.
+  **tgLib** is very simple, the view of the server application should implement the **IServerView** interface of tgLib and that's all for the server side :relaxed:. On the other side, the client application game class should inherit of the **Game** class of tgLib and the view should also implement the **IClientView** interface of tgLib.
+  
+  
   
   
  
