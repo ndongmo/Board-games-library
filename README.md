@@ -16,8 +16,12 @@
   
   The library is design in two modules : the client module which implements client functionalities and the server module for server         functionalities. Each module follows MVC architecture.
   
-  <img src="https://github.com/ndongmo/Board-games-library/blob/master/project_architecture.PNG" align="left" width="25%" height="400" >
-  <img src="https://github.com/ndongmo/Board-games-library/blob/master/tgLib_Class_diagram.jpg" align="right" width="70%" height="400" >
+  <img src="https://github.com/ndongmo/Board-games-library/blob/master/project_architecture.PNG" align="left" width="25%" height="400" alt="Project architecture">
+  <img src="https://github.com/ndongmo/Board-games-library/blob/master/tgLib_Class_diagram.jpg" align="right" width="70%" height="400" alt="tgLib class diagram">
   
-
+  ## How it works
+  
+  **tgLib** is very simple, the view of the server application should implement the IServerView interface of the tgLib and that's all for the server side :relaxed:.
+  
+  
  
