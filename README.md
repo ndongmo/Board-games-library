@@ -38,8 +38,88 @@
  </table>
 
 ## Running the examples
+You can find in the [readyToUse](https://github.com/ndongmo/Board-games-library/blob/master/readyToUse) directory the client EXE and the server EXE in which I embedded the tgLib.dll for convenience thanks to [Fody](https://github.com/Fody/Costura) package. Unfortunatelly, I couldn't do the same with the user DB (access db). I run my tests on the same machine, so please do not hesitate to raise an issue.
 
+Once the server has started, the client can connect and logged if he has already registered. Otherwise, he can register with by filling his login and password, or he can stay as anonymous player. Of course as anonymous player he have no score history.
 
+<table style="width:100%">
+  <tr>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_1.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_1.PNG" />
+    </td>
+    <td>
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_1.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_1.PNG" />
+    </td>
+  </tr>
+ </table>
+ 
+ Once the client is connected or logged, he can see the list of connected players and choose the player he want to challenge. The selected player on his side receives the challenge request and he can reject or accept it. If the request is accepted, the both players can begin the party and cannot receive any other request while playing. During a game, the challengers can communicate through a chat box on the left panel. Moreover, any challenger can abort the game at any time.
+ 
+<table style="width:100%">
+  <tr>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_1.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_2.PNG" />
+    </td>
+    <td>
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_2.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_1.PNG" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_2.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_4.PNG" />
+    </td>
+    <td>
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_4.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_3.PNG" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_2.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_5.PNG" />
+    </td>
+    <td>
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_5.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_3.PNG" />
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_2.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_6.PNG" />
+    </td>
+    <td>
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_6.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_3.PNG" />
+    </td>
+  </tr>
+ </table>
+ 
 ## Authors
 
 * F. Ndongmo Silatsa
