@@ -46,7 +46,7 @@
 
 ## Licence
 
-This project is licensed under
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ndongmo/Board-games-library/blob/master/LICENSE.md) file for details
 
 ## Acknowledgments
 
