@@ -8,5 +8,9 @@
   - Player data management (registration, login, score)
   - Concurency through multithreading (one thread per client)
   
+  ## Requirements
   
+  The code has been compiled with visual studio 2013 (.Net Framework 4.5) without any special package or library. Although I didn't test     it with other version of visual studio, I assume it should work for any version of visual studio let's say greater or equal to 2010.       Also, I use Microsoft.ACE.OLEDB.12.0 as provider in the server application example. So you will need to install it if you intend to use   the same provider or you can just use another .Net provider.
+  
+  ## Architecture
   
