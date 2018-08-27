@@ -14,3 +14,6 @@
   
   ## Architecture
   
+  The library is design in two modules : the client module which implements client functionalities and the server module for server functionalities. Each module follows MVC architecture.
+  
+  
