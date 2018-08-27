@@ -18,11 +18,11 @@
   
   <table style="width:100%">
   <tr>
-    <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/project_architecture.PNG" style="width:30%" />
+    <td style="width:30%">
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/project_architecture.PNG" />
     </td>
-    <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/tgLib_Class_diagram.jpg" style="width:70%" />
+    <td style="width:70%">
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/tgLib_Class_diagram.jpg" />
     </td>
   </tr>
  </table>
