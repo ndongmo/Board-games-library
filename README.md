@@ -19,7 +19,7 @@
   <img src="https://github.com/ndongmo/Board-games-library/blob/master/project_architecture.PNG" align="left" width="25%" height="400"      alt="Project architecture">
   <img src="https://github.com/ndongmo/Board-games-library/blob/master/tgLib_Class_diagram.jpg" align="right" width="70%" height="400"      alt="tgLib class diagram">
   
-  
+  <br/>
   ## How it works
   
   **tgLib** is very simple, the view of the server application should implement the **IServerView** interface of tgLib and that's all     for the server side :relaxed:. On the other side, the client application game class should inherit of the **Game** class of tgLib and   the view should also implement the **IClientView** interface of tgLib. The diagrams bellow show how the server and client examples       have been designed. It is a good example of how to use tgLib for any board game.
