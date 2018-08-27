@@ -19,7 +19,7 @@
   <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/project_architecture.png" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/project_architecture.PNG" />
     </td>
     <td>
       <img src="https://github.com/ndongmo/Board-games-library/blob/master/tgLib_Class_diagram.jpg" />
