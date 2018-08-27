@@ -16,8 +16,8 @@
   
   The library is design in two modules : the client module which implements client functionalities and the server module for server         functionalities. Each module follows MVC architecture.
   
-  <img src="https://github.com/ndongmo/Board-games-library/blob/master/project_architecture.PNG" align="left" width="25%" height="400"      alt="Project architecture">
-  <img src="https://github.com/ndongmo/Board-games-library/blob/master/tgLib_Class_diagram.jpg" align="right" width="70%" height="400"      alt="tgLib class diagram">
+  <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/project_architecture.PNG" align="left" width="25%" height="400"      alt="Project architecture">
+  <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/tgLib_Class_diagram.jpg" align="right" width="70%" height="400"      alt="tgLib class diagram">
   
   ## How it works
   
@@ -26,13 +26,13 @@
   <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/ServerApp_Class_diagram.PNG" alt="Server App class diagram"/>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/ServerApp_Class_diagram.PNG" alt="Server App class diagram"/>
     </td>
     <td>
-     <img src="https://github.com/ndongmo/Board-games-library/blob/master/ClientApp_Class_diagram.PNG" alt="Client App class diagram" />
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/ClientApp_Class_diagram.PNG" alt="Client App class diagram" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/Client_stateMachine_diagram.jpg" alt="Client state machine           diagram"/>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/Client_stateMachine_diagram.jpg" alt="Client state machine           diagram"/>
     </td>
   </tr>
  </table>
@@ -45,16 +45,16 @@ Once the server has started, the client can connect and logged if he has already
 <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_1.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/server_1.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_1.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_1_1.PNG" />
     </td>
     <td>
-     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_1.PNG" />
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_2_1.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_1.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_3_1.PNG" />
     </td>
   </tr>
  </table>
@@ -64,58 +64,58 @@ Once the server has started, the client can connect and logged if he has already
 <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_1.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/server_1.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_2.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_1_2.PNG" />
     </td>
     <td>
-     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_2.PNG" />
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_2_2.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_1.PNG" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_2.PNG" />
-    </td>
-    <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_4.PNG" />
-    </td>
-    <td>
-     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_4.PNG" />
-    </td>
-    <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_3.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_3_1.PNG" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_2.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/server_2.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_5.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_1_4.PNG" />
     </td>
     <td>
-     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_5.PNG" />
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_2_4.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_3.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_3_3.PNG" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/server_2.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_1_5.PNG" />
+    </td>
+    <td>
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_2_5.PNG" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_3_3.PNG" />
     </td>
   </tr>
    <tr>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/server_2.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/server_2.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_1_6.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_1_6.PNG" />
     </td>
     <td>
-     <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_2_6.PNG" />
+     <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_2_6.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Board-games-library/blob/master/client_3_3.PNG" />
+      <img src="https://github.com/ndongmo/Board-games-library/blob/master/images/client_3_3.PNG" />
     </td>
   </tr>
  </table>
