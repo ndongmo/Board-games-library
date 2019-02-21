@@ -1,5 +1,7 @@
 # Board games library
-**tgLib** is a lightweight Client-Server C# library for board games. It is modular and very easy to use. It provides functionalities for server and client which can be used independently. The code is provided with server and client application examples, and with tgLib class diagram for good understanding how it works. The client application implements the well-known **Connect4** game.
+**tgLib** is a lightweight Client-Server C# library for board games. It is modular and very easy to use. It provides functionalities for server and client which can be used independently. The code is provided with server and client application examples, and with tgLib class diagram for good understanding how it works. The client application implements the well-known **Connect4** game. You can have a look at the video gameplay on my [youtube channel](https://youtu.be/GuC5tC1gA5Y).
+
+[![Gameplay video on youtube](https://j.gifs.com/VAmZGW.gif)](https://youtu.be/GuC5tC1gA5Y)
   
   ## Features
   
